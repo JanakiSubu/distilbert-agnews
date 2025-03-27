@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+*.pth
+*.pt
+*.zip
+logs/
+results/
+wandb/
+.cache/
