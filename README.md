@@ -1,8 +1,6 @@
-Here’s your **perfectly formatted `README.md`** — ready to copy-paste directly into your GitHub repo:
 
----
 
-```markdown
+
 # 🧠 DistilBERT AG News Classifier
 
 A fast, lightweight news headline classifier fine-tuned using [DistilBERT](https://huggingface.co/distilbert-base-uncased) on the [AG News](https://huggingface.co/datasets/ag_news) dataset.
